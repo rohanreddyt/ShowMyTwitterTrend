@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShowMyTwitterTrend</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">l8UjmD498jG45Gd2Z8bQVVfY8</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">pQYseCPDfUGnO4tIQSXXfkzX3v3VINVrzcCpABTyLD06ydgGuh</string>
+</resources>
