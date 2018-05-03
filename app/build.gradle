@@ -12,9 +12,9 @@ android {
 
         buildConfigField 'String', 'END_POINT', '"https://api.twitter.com/1.1/"'
         buildConfigField 'String', 'AUTH_END_POINT', '"https://api.twitter.com/oauth2/token"'
-        buildConfigField 'String', 'CONSUMER_KEY', '"xhBLIT2ZAdutz4aI9rwIjVEuy"'
-        buildConfigField 'String', 'CONSUMER_SECRET', '"B6sZAkPQj6F6RDXicWLtv75mn4miBXLpdIZ34tDJ7HTkWqcfOJ"'
-        buildConfigField 'String', 'AUTH_TOKEN', '"2893921857-wZ7pQxmeEkT3Gx1nO98aT0sE97FHyvqCNzJMQKB"'
+        buildConfigField 'String', 'CONSUMER_KEY', '"l8UjmD498jG45Gd2Z8bQVVfY8"'
+        buildConfigField 'String', 'CONSUMER_SECRET', '"pQYseCPDfUGnO4tIQSXXfkzX3v3VINVrzcCpABTyLD06ydgGuh"'
+        buildConfigField 'String', 'AUTH_TOKEN', '"168664791-BA8y9eKctgabplRjttUGmWJK5zNIfQB4eq3Zp0ZE"'
     }
     buildTypes {
         release {
